@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 - Estudando Python, Django, java, springboot e Mysql<br>📚 - Análise e Desenvolvimento de Sistemas <br>🏫 - IFS - Instituto Federal De Sergipe <br>📭 - marlissonvinicius13@gmail.com <br>
+🌱 - Estudando C#, .NET, java, springboot, Mysql, sqlServer<br>📚 - Análise e Desenvolvimento de Sistemas <br>🏫 - IFS - Instituto Federal De Sergipe <br>📭 - marlissonvinicius13@gmail.com <br>
 
 
 ## 🌐 Socials:
